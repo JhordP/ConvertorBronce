@@ -1,0 +1,7 @@
+C:\Users\jhord\source\repos\Monedas\bin\Debug\Monedas.exe.config
+C:\Users\jhord\source\repos\Monedas\bin\Debug\Monedas.exe
+C:\Users\jhord\source\repos\Monedas\bin\Debug\Monedas.pdb
+C:\Users\jhord\source\repos\Monedas\obj\Debug\Monedas.csproj.CoreCompileInputs.cache
+C:\Users\jhord\source\repos\Monedas\obj\Debug\Monedas.exe
+C:\Users\jhord\source\repos\Monedas\obj\Debug\Monedas.pdb
+C:\Users\jhord\source\repos\Monedas\obj\Debug\Monedas.csproj.AssemblyReference.cache
